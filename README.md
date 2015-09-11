@@ -19,9 +19,9 @@
 ## Step 3 - EDIT MY SOURCE CODE TOO!
 
 1. cd into the newly created folder and openup the README file
- * `shell cd TempRepo && vim README.md`
+ * `cd TempRepo && vim README.md`
 2. You should be looking at this line now, but in VIM!
-3. Add something to the bottom of this document, a comment, a snipit of code, a message to the world I dont care, just make sure you add your name! Please dont edit the origional instructions (unless its a spelling mistake, then fix it you  Nazi...)  
+3. Add something to the bottom of this document, a comment, a snipit of code, a message to the world I dont care, just make sure you add your name! Please dont edit the origional instructions (unless its a spelling mistake, then fix it you  Nazi [even though if you follow history you will know this as the Gshstapo]...)  
  * G (Shift-G) takes you to the end of the document  
  * i (lower case i) puts you into insert mode (you can type and your characters are literal now)  
  * Esc (Escape Key, usually top left of the keyboard) will put you back into command mode  
@@ -66,4 +66,4 @@
 
 
 
-
+## Here is a comment from Gretiem, I don't like it when people see my comments that's why I don't add them to my code....MUAHAHAHAHAHA have fun learning peoples
