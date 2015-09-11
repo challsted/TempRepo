@@ -30,11 +30,11 @@
 
 ## Step 4 - PUSH ME BACK UP!
 
-1. Git Add, Git Commit, Git Push
+1. Git Add, Git Commit, Git Push  
    ```git
-   git add README.md
-   git commit -m "Pushing back up for Step 4.1" # Or another optional message, idk
-   git push origin master                       # If you have an issue here, see the subnote
+   git add README.md  
+   git commit -m "Pushing back up for Step 4.1" # Or another optional message, idk  
+   git push origin master                       # If you have an issue here, see the subnote  
    ```
  * You might need to setup SSH Keys, heres the official guide on how -> [Guide][GHGuide]
 
